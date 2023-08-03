@@ -1,0 +1,33 @@
+* {
+     border: solid;
+
+}
+
+h1 {
+    color:rgb(214, 32, 22)
+}
+
+.header{
+    background-color:#44ff00;
+    display:flex;
+    justify-content:space-between;
+}
+
+body {
+    background-color: #ffffff
+}
+
+.description {
+    background-color:#16c9e1;
+}
+
+.games{
+    background-color: #6895ea;
+    display:flex;
+    justify-content:space-between;
+}
+
+.social{
+    background-color: rgb(255, 140, 0);
+
+}
